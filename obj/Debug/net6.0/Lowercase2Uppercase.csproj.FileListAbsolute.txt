@@ -1,0 +1,15 @@
+D:\InductionTasks\Lowercase2Uppercase\bin\Debug\net6.0\Lowercase2Uppercase.exe
+D:\InductionTasks\Lowercase2Uppercase\bin\Debug\net6.0\Lowercase2Uppercase.deps.json
+D:\InductionTasks\Lowercase2Uppercase\bin\Debug\net6.0\Lowercase2Uppercase.runtimeconfig.json
+D:\InductionTasks\Lowercase2Uppercase\bin\Debug\net6.0\Lowercase2Uppercase.dll
+D:\InductionTasks\Lowercase2Uppercase\bin\Debug\net6.0\Lowercase2Uppercase.pdb
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.csproj.AssemblyReference.cache
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.AssemblyInfoInputs.cache
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.AssemblyInfo.cs
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.csproj.CoreCompileInputs.cache
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.dll
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\refint\Lowercase2Uppercase.dll
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.pdb
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\Lowercase2Uppercase.genruntimeconfig.cache
+D:\InductionTasks\Lowercase2Uppercase\obj\Debug\net6.0\ref\Lowercase2Uppercase.dll
